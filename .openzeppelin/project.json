@@ -19,8 +19,6 @@
     "PoolToken_Aave_DAI": "PoolToken_Aave_DAI",
     "AaveProtocol_USDC": "AaveProtocol_USDC",
     "PoolToken_Aave_USDC": "PoolToken_Aave_USDC",
-    "AaveProtocol_SUSD": "AaveProtocol_SUSD",
-    "PoolToken_Aave_SUSD": "PoolToken_Aave_SUSD",
     "AaveProtocol_USDT": "AaveProtocol_USDT",
     "PoolToken_Aave_USDT": "PoolToken_Aave_USDT",
     "AaveProtocol_TUSD": "AaveProtocol_TUSD",
